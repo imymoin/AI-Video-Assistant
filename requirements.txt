@@ -40,4 +40,4 @@ fpdf2>=2.7.9
 python-dotenv>=1.0.0
 numpy>=1.26.0
 tqdm>=4.66.0
-requests>=2.32.0
+requests>=2.32.0langchain-chroma>=0.1.0
